@@ -1,0 +1,3 @@
+[submodule "modules/eposhh_fir"]
+	path = modules/eposhh_fir
+	url = https://github.com/rlf-arlut/eposhh_fir.git
